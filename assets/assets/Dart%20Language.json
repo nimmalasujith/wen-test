@@ -1,0 +1,403 @@
+[
+  {
+    "heading": {
+      "text": "Dart Tutorial",
+      "size": 20,
+      "color": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "images": [
+      {
+        "url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317130050/Dart-Tutorial.png"
+      }
+    ],
+    "id": "qwertyuiop",
+    "sentences": [
+      {
+        "text": "Dart is an open-source general-purpose programming language developed by Google. It supports application development on both the client and server side. However, it is widely used for the development of Android apps, iOS apps, IoT(Internet of Things), and web applications using the Flutter Framework.",
+        "size": 14,
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "text": "This Dart tutorial will help you get up to speed. We have covered everything you need to know, from setting up Dart to using its advanced features. By the end, you’ll be ready to create fast, efficient applications. Let’s dive in and see how Dart can make your coding projects easier and more fun!",
+        "size": 14,
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "text": "Syntactically, Dart bears a strong resemblance to Java, C, and JavaScript.  It is a dynamic object-oriented language with closure and lexical scope. The Dart language was released in 2011 but came into popularity after 2015 with Dart 2.0.",
+        "size": 14,
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ],
+    "points": []
+  },
+  {
+    "heading": {
+      "text": "Why Use Dart",
+      "size": 20,
+      "color": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "points": [
+      {
+        "text": "Fast & Smooth: Dart compiles to native code for speedy performance, ideal for mobile apps."
+      },
+      {
+        "text": "Easy to Learn: Similar to familiar languages like Java or Javascript, making it approachable for new developers."
+      },
+      {
+        "text": "Flutter Power: Dart is the heart of Flutter, a popular framework for building beautiful and functional mobile apps."
+      },
+      {
+        "text": "One Code, Many Places: Develop for mobile, web, and even desktop with a single codebase (primarily with Flutter)."
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Dart Basics",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "In this section, you will explore into the fundamental concepts of Dart programming. Dart is a versatile language known for its simplicity and efficiency in developing applications for various platforms. You’ll start by understanding basic syntax and data types, essential for writing clear and concise code. Explore how Dart handles variables, functions, and control flow statements, laying a solid foundation for building more complex applications.",
+        "size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "Introduction to Dart Programming Language"
+      },
+      {
+        "text": "Dart – SDK Installation"
+      },
+      {
+        "text": "Dart – Comments"
+      },
+      {
+        "text": "Dart – Variables"
+      },
+      {
+        "text": "Dart – Operators"
+      },
+      {
+        "text": "Dart – Standard Input Output"
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Data Types in Dart",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "Data Types are used for defining the type of data that a variable can store. We can store multiple types of data in Dart as mentioned below:",
+        "size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "Dart – Data Types"
+      },
+      {
+        "text": "Dart – Numbers"
+      },
+      {
+        "text": "Dart – Strings"
+      },
+      {
+        "text": "Dart – List"
+      },
+      {
+        "text": "Dart – Sets"
+      },
+      {
+        "text": "Dart – Map"
+      },
+      {
+        "text": "Queues in Dart"
+      },
+      {
+        "text": "Dart – Enums"
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Control Flow in Dart",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "Control Flow in Programming is refers to the order in which set of instructions or statements that are executed or evaluated. It provides flexibility in Decision making and makes code more user friendly.",
+        "size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "Dart – If-Else Statements"
+      },
+      {
+        "text": "Dart – Switch Case Statements"
+      },
+      {
+        "text": "Dart –  Loops"
+      },
+      {
+        "text": "Dart – Loop Control Statements"
+      },
+      {
+        "text": "Labels in Dart"
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Dart Key Functions",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "Functions are used for making our Dart Programs more organised and efficient. Here, we will check how to build functions and learn about few inbuilt functions in Dart which can lower some of the loads from us.",
+        "size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "Dart – Function"
+      },
+      {
+        "text": "Dart – Types of Functions"
+      },
+      {
+        "text": "Dart – Anonymous Function"
+      },
+      {
+        "text": "Dart – main() Function"
+      },
+      {
+        "text": "Dart – Common Collection Methods"
+      },
+      {
+        "text": "Dart – exit() function"
+      },
+      {
+        "text": "Getter and Setter Methods in Dart"
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Object-Oriented Programming(OOPS) in Dart",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "OOPS is important part of Dart Programming Language let us learn topics from encapsulation to inheritance, polymorphism, abstract classes, and iterators, we’ll cover the essential concepts that empower you to build modular, reusable, and scalable code.",
+        "size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "Dart – Classes & Objects"
+      },
+      {
+        "text": "Dart – Constructors"
+      },
+      {
+        "text": "Dart – Super Constructor"
+      },
+      {
+        "text": "Dart – this Keyword"
+      },
+      {
+        "text": "Dart – static Keyword"
+      },
+      {
+        "text": "Dart – super Keyword"
+      },
+      {
+        "text": "Dart – Const And Final Keyword"
+      },
+      {
+        "text": "Dart – Inheritance"
+      },
+      {
+        "text": "Dart – Methods"
+      },
+      {
+        "text": "Dart – Method Overloading"
+      },
+      {
+        "text": "Dart – Getters & Setters"
+      },
+      {
+        "text": "Dart – Abstract Classes"
+      },
+      {
+        "text": "Dart – Builder Class"
+      },
+      {
+        "text": "Concept of Callable Classes in Dart"
+      },
+      {
+        "text": "Dart – Interfaces"
+      },
+      {
+        "text": "Dart – extends Vs with Vs implements"
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Dart Utilities",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "In this section, we explore Dart utilities that enhance development efficiency. Dart offers a robust set of utility functions and libraries that simplify common tasks like handling collections, working with dates and times, and managing asynchronous operations. These utilities empower developers to write cleaner, more concise code, speeding up the development process and improving code maintainability.",
+        "size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "Dart – Date and Time"
+      },
+      {
+        "text": "Using await async in Dart"
+      },
+      {
+        "text": "Data Enumeration in Dart"
+      },
+      {
+        "text": "Dart – Type System"
+      },
+      {
+        "text": "Generators in Dart"
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Dart Programs",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "Dart programs are structured using clear syntax and support object-oriented principles, making them versatile for both beginners and experienced developers alike. You’ll learn how to write and execute Dart code, understand variables, functions, and control flow structures essential for building functional and efficient applications.",
+        "size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "How to Combine Lists in Dart?"
+      },
+      {
+        "text": "Dart – Finding Minimum and Maximum Value in a List"
+      },
+      {
+        "text": "Dart – Splitting of String"
+      },
+      {
+        "text": "How to Append or Concatenate Strings in Dart?"
+      },
+      {
+        "text": "How to Find the Length of a String in Dart?"
+      },
+      {
+        "text": "Dart – Sort a List"
+      },
+      {
+        "text": "How to convert a lowercase string to an uppercase string?"
+      },
+      {
+        "text": "How to convert all characters of a string to lowercase?"
+      },
+      {
+        "text": "How to Replace a Substring of a String in Dart?"
+      },
+      {
+        "text": "How to Check String is Empty in Dart?"
+      }
+    ]
+  },
+  {
+    "heading": {
+      "text": "Advance Concepts",
+      "size": 20
+    },
+    "sentences": [
+      {
+        "text": "In the advance concept section you will explore advanced concepts of Dart in depth. These concepts build upon the foundational knowledge you’ve gained, allowing you to tackle more complex challenges in Dart programming. From mastering asynchronous programming and working with streams to implementing advanced design patterns like dependency injection and state management, these topics are essential for developing scalable and efficient applications.","size": 14
+      }
+    ],
+    "points": [
+      {
+        "text": "Exception Handling in Dart"
+      },
+      {
+        "text": "Assert Statements in Dart"
+      },
+      {
+        "text": "Fallthrough Condition in Dart"
+      },
+      {
+        "text": "Concept of Isolates in Dart"
+      },
+      {
+        "text": "Dart – Typedef"
+      },
+      {
+        "text": "Dart – URIs"
+      },
+      {
+        "text": "Dart – Collections"
+      },
+      {
+        "text": "Dart – Packages"
+      },
+      {
+        "text": "Dart – Generators"
+      },
+      {
+        "text": "Dart – Callable Classes"
+      },
+      {
+        "text": "Dart – Isolates"
+      },
+      {
+        "text": "Dart – Async"
+      },
+      {
+        "text": "Dart – String codeUnits Property"
+      },
+      {
+        "text": "Dart – HTML DOM"
+      }
+    ]
+  }
+]
